@@ -49,7 +49,7 @@ A modern, responsive, single-page travel agency website built with React and Vit
 ## Project Structure
 
 ```text
-travel-agency/
+ZarvivaTravels/
 ├── public/
 │   └── images/              # Destination, package and hero images
 ├── src/
@@ -64,7 +64,8 @@ travel-agency/
 │   │   ├── Reviews.jsx
 │   │   ├── BookingForm.jsx
 │   │   ├── Contact.jsx
-│   │   └── Footer.jsx
+│   │   ├── Footer.jsx
+│   │   └── XIcon.jsx
 │   ├── App.jsx
 │   ├── App.css
 │   ├── data.js              # Destinations, packages and reviews
@@ -87,10 +88,10 @@ travel-agency/
 
 ```bash
 # 1. Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/mhassantariqofficial/ZarvivaTravels.git
 
 # 2. Move into the project folder
-cd travel-agency
+cd ZarvivaTravels
 
 # 3. Install dependencies
 npm install
@@ -135,6 +136,10 @@ Place the following files in `public/images/`. If a file is missing, a colour gr
 - User registration and login.
 - Email confirmation after booking.
 - Real destination search and filtering.
+
+## Author
+
+**Muhammad Hassan Tariq**
 
 ## License
 
