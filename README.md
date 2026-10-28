@@ -1,5 +1,11 @@
 # ZarvivaTravels
 
+**Live Demo:** [zarviva-travels.vercel.app](https://zarviva-travels.vercel.app/)
+
+![ZarvivaTravels Desktop View](screenshots/desktop.png)
+
+![ZarvivaTravels Mobile View](screenshots/mobile.png)
+
 A modern, responsive, single-page travel agency website built with React and Vite. Visitors can explore destinations, browse tour packages, search for trips, read reviews, and submit booking and contact requests.
 
 > **Note:** This is a frontend-only project. Prices, reviews, contact details and the agency profile are sample values for demonstration and are not verified travel rates or real customer feedback.
