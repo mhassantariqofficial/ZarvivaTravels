@@ -16,7 +16,6 @@ A modern, responsive, single-page travel agency website built with React and Vit
 6. [Customization](#customization)
 7. [Images](#images)
 8. [Author](#author)
-9. [License](#license)
 
 ---
 
@@ -131,10 +130,6 @@ Place the following files in `public/images/`. If a file is missing, a colour gr
 ## Author
 
 **Muhammad Hassan Tariq**
-
-## License
-
-This project is created for learning and portfolio purposes. Add a license of your choice before using it commercially.
 
 ---
 
