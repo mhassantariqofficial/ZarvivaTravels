@@ -15,7 +15,7 @@ A modern, responsive, single-page travel agency website built with React and Vit
 5. [Available Scripts](#available-scripts)
 6. [Customization](#customization)
 7. [Images](#images)
-8. [Future Improvements](#future-improvements)
+8. [Author](#author)
 9. [License](#license)
 
 ---
@@ -127,15 +127,6 @@ Place the following files in `public/images/`. If a file is missing, a colour gr
 | `about.jpg` | About Us section |
 | `hunza.jpg`, `skardu.jpg`, `dubai.jpg`, `istanbul.jpg`, `bali.jpg`, `switzerland.jpg` | Destination cards |
 | `pkg-hunza.jpg`, `pkg-dubai.jpg`, `pkg-bali.jpg` | Tour package cards |
-
-## Future Improvements
-
-- Backend with Node.js and Express to handle booking requests.
-- MongoDB database to store bookings permanently.
-- Admin dashboard to manage bookings.
-- User registration and login.
-- Email confirmation after booking.
-- Real destination search and filtering.
 
 ## Author
 
